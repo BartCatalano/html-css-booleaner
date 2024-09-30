@@ -1,27 +1,43 @@
 .banner {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
-background-color: rgb(92, 150, 238);
-background-size: 400px;
+    background-color: rgb(92, 150, 238);
+    background-size: 400px;
 }
 
-h1{
+h1 {
     font-size: xx-large;
     color: black;
     margin: 0%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-    .sottotitoli{
-        font-size: small;
-    
-    }
-    .booleaner{
-        color: aqua;
-    }
+.lowimportance{
+    color: rgb(151, 147, 147);
+}
 
-.description{
+.sottotitoli {
+    font-size: small;
+
+}
+
+.booleaner {
+    color: aqua;
+}
+
+.description {
     font-size: smaller;
 }
-.evidenziato{
+
+.evidenziato {
     background-color: yellow;
+}
+
+.t_title {
+    background-color: rgb(33, 113, 235);
+    color: white;
+}
+.t_color{
+    background-color: aquamarine;
+}
+    
 }
