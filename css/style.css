@@ -52,3 +52,20 @@ h1 {
     width: 50%;
     text-align: left;
 }
+.section_table{
+    border-collapse: collapse;
+}
+.titolo_immagine{
+    width: 250px;
+    height: 250px;
+
+}
+.coloretitolo{
+    color:white;
+}
+#computer{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
