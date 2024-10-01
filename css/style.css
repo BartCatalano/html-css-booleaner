@@ -4,6 +4,9 @@
     background-color: rgb(92, 150, 238);
     background-size: 400px;
 }
+.logo_banner{
+    width: 200px; height: 100px;
+}
 h1 {
     font-size: xx-large;
     color: black;
